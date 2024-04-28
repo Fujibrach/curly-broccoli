@@ -1,1 +1,3 @@
 # curly-broccoli
+
+The primary objective of this project is to acquire geographic data from the United States for upcoming research endeavors. This data will be utilized to analyze various aspects such as population distribution, regional demographics, and geographical patterns. By obtaining comprehensive geo data, we aim to enhance our understanding of the United States' landscape and contribute valuable insights to future research initiatives. Additionally, the acquired data will serve as a foundation for developing geographic information systems (GIS) and spatial analysis models to address diverse research questions and challenges.
